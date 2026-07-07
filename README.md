@@ -1,2 +1,2 @@
 # Edu-Response-System
-Repository for https://replit.com/@nithyasrim2407/Edu-Response-System
+https://edu-response-system--nithyasrim2407.replit.app/
